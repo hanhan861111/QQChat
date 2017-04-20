@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\downoad_git\QQChat1\app\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="E:\downoad_git\QQChat1\app\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0_6a7397a365fa1097d6a58262a3c4477f19f4a1cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="E:\downoad_git\QQChat1\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_bafc08b88af2fe8abfdbce7ffc7feeff4fc1170d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\downoad_git\QQChat1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3c05e609027750c8ced9ddcb597fb51bcce327a4">
+        <dex dex="E:\downoad_git\QQChat1\app\build\intermediates\pre-dexed\debug\instant-run_33ec17cbad95f2362c3050938fda0558aae8e925.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\downoad_git\QQChat1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3b9f86ab945bd27aa55993b1d94959a28cc8a4d7">
+        <dex dex="E:\downoad_git\QQChat1\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_cb41bbb654256141a16b6a39c4689f8aea297b67.jar" />
+    </item>
+
+</items>
